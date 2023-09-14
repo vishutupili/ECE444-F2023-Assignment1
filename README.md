@@ -13,3 +13,13 @@ Screenshot of the commit for utils.py
 <img width="892" alt="Screenshot 2023-09-14 at 11 59 32 AM" src="https://github.com/vishutupili/ECE444-F2023-Assignment1/assets/71949354/d3719ca9-d36b-40fa-9f83-24931a734db2">
 Screenshot of the commit for utils_tests.py
 <img width="974" alt="Screenshot 2023-09-14 at 12 00 55 PM" src="https://github.com/vishutupili/ECE444-F2023-Assignment1/assets/71949354/9b373fb4-9e2a-42fc-9ee5-583075bdeb59">
+## Activity 5
+After commiting c1 and c2 on branch rebase, and then commiting c3 and c4 on branch develop, I switched back to branch rebase and ran the following rebase command:<img width="491" alt="Screenshot 2023-09-14 at 2 58 48 PM" src="https://github.com/vishutupili/ECE444-F2023-Assignment1/assets/71949354/0a2d2483-8821-4e3f-97ce-db7000c69ec1">
+
+Then I switched back to the develop branch and ran the following rebase command:<img width="497" alt="Screenshot 2023-09-14 at 2 59 19 PM" src="https://github.com/vishutupili/ECE444-F2023-Assignment1/assets/71949354/82815e1b-df3f-40fa-a6e3-d786decf6edc">
+
+In the log, you can now see that the order of the commits is: c3->c4->c1->c2
+<img width="479" alt="Screenshot 2023-09-14 at 3 00 25 PM" src="https://github.com/vishutupili/ECE444-F2023-Assignment1/assets/71949354/5ba3a51b-7d1d-4ec9-833b-baee47fb6ceb">
+
+
+
